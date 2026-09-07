@@ -169,13 +169,3 @@ Customers without:
 are more likely to churn.
 
 ---
-
-## 💡 Business Recommendations
-
-Based on the model insights:
-
-- Encourage **long-term contracts** via incentives  
-- Offer **bundled services** to improve retention  
-- Provide **targeted offers to high-paying customers**  
-- Focus retention strategies on **new customers with low tenure**  
-
