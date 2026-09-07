@@ -18,20 +18,6 @@ The solution goes beyond just modeling and focuses on the **complete ML lifecycl
 
 Users can input customer information and receive a **real-time churn probability prediction along with model insights**.
 
----
-
-## 🎥 Live Project Walkthrough
-
-👉 https://www.youtube.com/watch?v=RKXDvzcKWL0
-
----
-
-## 🚀 Live Demo
-
-Streamlit App:  
-https://customer-churn-prediction-lr-rf.streamlit.app/
-
----
 
 ## 📊 Dataset
 
@@ -193,25 +179,3 @@ Based on the model insights:
 - Provide **targeted offers to high-paying customers**  
 - Focus retention strategies on **new customers with low tenure**  
 
----
-
-## 🌐 Deployment
-
-The model is deployed using **Streamlit**, allowing users to:
-
-- Input customer data  
-- Get churn probability instantly  
-- View model explanations using SHAP  
-
----
-
-## 📌 Conclusion
-
-This project demonstrates how to build a **production-ready ML solution** that combines:
-
-- Predictive modeling  
-- Business understanding  
-- Explainability  
-- Deployment  
-
-It highlights the importance of going beyond modeling to deliver **actionable business insights**.
